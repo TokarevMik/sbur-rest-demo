@@ -1,4 +1,4 @@
-package com.thehecklers.sburrestdemo;
+package com.thehecklers.sburrestdemo.controllers;
 
 import com.thehecklers.sburrestdemo.model.Coffee;
 import com.thehecklers.sburrestdemo.model.CoffeeRepository;
